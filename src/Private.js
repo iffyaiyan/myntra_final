@@ -21,7 +21,7 @@ function Private() {
                     <img src={image3} />
                 </div>
                     
-                <h3>There is 3 items available in the public domain</h3>
+                <h3>There is 3 items available in the private domain</h3>
                 
             </div>
         </div>
